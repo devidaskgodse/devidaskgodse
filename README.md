@@ -1,5 +1,5 @@
 * 👋 Hi, I’m Devidas Godse
-* 🌱 I’m currently doing research on Granular Materials.
+* 🌱 I’m currently doing research on Granular System.
 <!--
 * 💞️ I’m looking to collaborate on ...
 * 👀 I’m interested in mental models, scripting, 
