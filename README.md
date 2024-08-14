@@ -4,4 +4,4 @@
 <!--
 * 💞️ I’m looking to collaborate on ...
 -->
-* 📫 You can reach me via [Mail](mailto:devidaskgodse+website@gmail.com), [LinkedIn](https://www.linkedin.com/in/devidaskgodse/), [Twitter](https://twitter.com/devidaskgodse), [Instagram](https://www.instagram.com/devidaskgodse) or visit [my website](devidaskgodse.github.io).
+* 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/devidaskgodse/), [Twitter](https://twitter.com/devidaskgodse), [Instagram](https://www.instagram.com/devidaskgodse) or visit [my website](devidaskgodse.github.io).
